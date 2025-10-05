@@ -11,7 +11,7 @@ The goal is to derive actionable insights from e-commerce sales data and present
   - SQL (SQLite/Postgres) for querying and KPIs  
   - Tableau for visualization and dashboards  
   - Google Analytics export for web traffic insights  
-- **Key Metrics:** Revenue trends, Average Order Value (AOV), Top Products, Repeat Purchase Rate, and Customer Lifetime Value (CLV).
+- **Key Metrics:** Revenue trends, Average Order Value (AOV), Top Products, Repeat Purchase Rate, and Regional Sales.
 
 ---
 
