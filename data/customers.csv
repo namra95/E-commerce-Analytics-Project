@@ -1,0 +1,6 @@
+customer_id,first_order_date,city,state,country,segment
+C001,2024-01-05,Dallas,TX,USA,Consumer
+C002,2024-02-12,Austin,TX,USA,SMB
+C003,2024-03-20,Seattle,WA,USA,Consumer
+C004,2024-04-15,Chicago,IL,USA,Enterprise
+C005,2024-05-08,New York,NY,USA,Consumer
